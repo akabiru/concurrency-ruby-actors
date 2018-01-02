@@ -1,4 +1,4 @@
-require_relative '/chopstick'
+require_relative 'chopstick'
 
 ##
 # Geometry of the table
