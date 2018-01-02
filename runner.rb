@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require_relative 'lib/chopstick.rb'
 require_relative 'lib/philosopher'
 require_relative 'lib/table'
