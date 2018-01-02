@@ -20,5 +20,7 @@ class Chopstick
     mutex.locked?
   end
 
-  private attr_reader :mutex
+  private
+
+  attr_reader :mutex
 end
